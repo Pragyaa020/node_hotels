@@ -1,0 +1,20 @@
+{
+  "name": "node_tutorial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "serve": "nodemon server.js",
+    "serve2": "nodemon server2.js",
+    "serve5": "nodemon server5.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.0",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.7.0",
+    "nodemon": "^3.1.7"
+  }
+}
